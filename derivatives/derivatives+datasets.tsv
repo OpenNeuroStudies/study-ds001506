@@ -1,0 +1,3 @@
+source_id	derivative_id	subjects_num	sessions_num	output_num	output_size	nifti_num	nifti_size	html_num
+ds001506	MRIQC-24.0.2	3	77	591	0	0	0	0
+ds001506	fMRIPrep-23.2.1	3	154	9612	7319034054	2394	4871715514	0
