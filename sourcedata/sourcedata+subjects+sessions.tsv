@@ -1,78 +1,78 @@
-source_id	subject_id	session_id	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds001506	sub-01	ses-anatomy	0	1	0	0	10487360	n/a	n/a	n/a	n/a	anat
-ds001506	sub-01	ses-imagery01	5	0	0	915737625	0	2270.0	454.0	3502080	700416.0	anat,func
-ds001506	sub-01	ses-imagery02	5	0	0	916207680	0	2270.0	454.0	3502080	700416.0	anat,func
-ds001506	sub-01	ses-imagery03	5	0	0	915734326	0	2270.0	454.0	3502080	700416.0	anat,func
-ds001506	sub-01	ses-imagery04	5	0	0	928215839	0	2270.0	454.0	3502080	700416.0	anat,func
-ds001506	sub-01	ses-perceptionArtificialImage01	10	0	0	1584235993	0	3900.0	390.0	7004160	700416.0	anat,func
-ds001506	sub-01	ses-perceptionArtificialImage02	10	0	0	1577406680	0	3900.0	390.0	7004160	700416.0	anat,func
-ds001506	sub-01	ses-perceptionLetterImage01	12	0	0	1463621220	0	3624.0	302.0	8404992	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTest01	8	0	0	1542891145	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTest02	8	0	0	1528264946	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTest03	8	0	0	1530193283	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining01	8	0	0	1557802193	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining02	8	0	0	1562429101	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining03	8	0	0	1565325138	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining04	8	0	0	1558818081	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining05	8	0	0	1548409193	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining06	8	0	0	1539242338	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining07	4	0	0	772496448	0	1912.0	478.0	2801664	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining08	10	0	0	1926702484	0	4780.0	478.0	7004160	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining09	10	0	0	1928331775	0	4780.0	478.0	7004160	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining10	8	0	0	1527852144	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining11	8	0	0	1538583528	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining12	8	0	0	1537598739	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining13	8	0	0	1538004189	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining14	8	0	0	1534543905	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-01	ses-perceptionNaturalImageTraining15	8	0	0	1534543905	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-anatomy	0	1	0	0	9964796	n/a	n/a	n/a	n/a	anat
-ds001506	sub-02	ses-imagery01	8	0	0	1421136223	0	3632.0	454.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-imagery02	6	0	0	1068379404	0	2724.0	454.0	4202496	700416.0	anat,func
-ds001506	sub-02	ses-imagery03	6	0	0	1065978330	0	2724.0	454.0	4202496	700416.0	anat,func
-ds001506	sub-02	ses-perceptionArtificialImage01	10	0	0	1542715830	0	3900.0	390.0	7004160	700416.0	anat,func
-ds001506	sub-02	ses-perceptionArtificialImage02	8	0	0	1208207986	0	3120.0	390.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionArtificialImage03	2	0	0	302232217	0	780.0	390.0	1400832	700416.0	anat,func
-ds001506	sub-02	ses-perceptionLetterImage01	12	0	0	1408018419	0	3624.0	302.0	8404992	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTest01	10	0	0	1872192962	0	4780.0	478.0	7004160	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTest02	6	0	0	1134529097	0	2868.0	478.0	4202496	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTest03	8	0	0	1502718021	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining01	8	0	0	1494021340	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining02	8	0	0	1497237487	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining03	8	0	0	1478840401	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining04	8	0	0	1476169975	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining05	8	0	0	1482378825	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining06	8	0	0	1475794140	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining07	8	0	0	1487256803	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining08	8	0	0	1461474470	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining09	8	0	0	1472513760	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining10	8	0	0	1487715138	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining11	8	0	0	1473080029	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining12	8	0	0	1499736961	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining13	8	0	0	1491942241	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining14	8	0	0	1507388436	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-02	ses-perceptionNaturalImageTraining15	8	0	0	1469722029	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-anatomy	0	1	0	0	8939559	n/a	n/a	n/a	n/a	anat
-ds001506	sub-03	ses-imagery01	3	0	0	517020433	0	1362.0	454.0	2101248	700416.0	anat,func
-ds001506	sub-03	ses-imagery02	9	0	0	1549841169	0	4086.0	454.0	6303744	700416.0	anat,func
-ds001506	sub-03	ses-imagery03	8	0	0	1364554222	0	3632.0	454.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionArtificialImage01	10	0	0	1444034713	0	3900.0	390.0	7004160	700416.0	anat,func
-ds001506	sub-03	ses-perceptionArtificialImage02	10	0	0	1441704324	0	3900.0	390.0	7004160	700416.0	anat,func
-ds001506	sub-03	ses-perceptionLetterImage01	12	0	0	1338539963	0	3624.0	302.0	8404992	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTest01	8	0	0	1406420599	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTest02	8	0	0	1430301409	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTest03	8	0	0	1442928945	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining01	8	0	0	1454397548	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining02	8	0	0	1433271875	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining03	8	0	0	1431052943	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining04	8	0	0	1415579812	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining05	8	0	0	1438154820	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining06	8	0	0	1441209254	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining07	8	0	0	1409390231	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining08	8	0	0	1425119874	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining09	8	0	0	1436362758	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining10	8	0	0	1431648537	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining11	8	0	0	1438699714	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining12	8	0	0	1449958609	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining13	8	0	0	1437661183	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining14	8	0	0	1439743113	0	3824.0	478.0	5603328	700416.0	anat,func
-ds001506	sub-03	ses-perceptionNaturalImageTraining15	8	0	0	1464432386	0	3824.0	478.0	5603328	700416.0	anat,func
+source_id	subject_id	session_id	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds001506	sub-01	ses-anatomy	0	1	0	0	10487360	n/a	n/a	n/a	n/a	n/a	0	n/a	anat
+ds001506	sub-01	ses-imagery01	5	0	0	915737625	0	2270.0	454.0	3502080	700416.0	imagery	1135	{"2.0":5}	anat,func
+ds001506	sub-01	ses-imagery02	5	0	0	916207680	0	2270.0	454.0	3502080	700416.0	imagery	1135	{"2.0":5}	anat,func
+ds001506	sub-01	ses-imagery03	5	0	0	915734326	0	2270.0	454.0	3502080	700416.0	imagery	1135	{"2.0":5}	anat,func
+ds001506	sub-01	ses-imagery04	5	0	0	928215839	0	2270.0	454.0	3502080	700416.0	imagery	1135	{"2.0":5}	anat,func
+ds001506	sub-01	ses-perceptionArtificialImage01	10	0	0	1584235993	0	3900.0	390.0	7004160	700416.0	perception	1950	{"2.0":10}	anat,func
+ds001506	sub-01	ses-perceptionArtificialImage02	10	0	0	1577406680	0	3900.0	390.0	7004160	700416.0	perception	1950	{"2.0":10}	anat,func
+ds001506	sub-01	ses-perceptionLetterImage01	12	0	0	1463621220	0	3624.0	302.0	8404992	700416.0	perception	1812	{"2.0":12}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTest01	8	0	0	1542891145	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTest02	8	0	0	1528264946	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTest03	8	0	0	1530193283	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining01	8	0	0	1557802193	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining02	8	0	0	1562429101	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining03	8	0	0	1565325138	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining04	8	0	0	1558818081	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining05	8	0	0	1548409193	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining06	8	0	0	1539242338	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining07	4	0	0	772496448	0	1912.0	478.0	2801664	700416.0	perception	956	{"2.0":4}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining08	10	0	0	1926702484	0	4780.0	478.0	7004160	700416.0	perception	2390	{"2.0":10}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining09	10	0	0	1928331775	0	4780.0	478.0	7004160	700416.0	perception	2390	{"2.0":10}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining10	8	0	0	1527852144	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining11	8	0	0	1538583528	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining12	8	0	0	1537598739	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining13	8	0	0	1538004189	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining14	8	0	0	1534543905	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-01	ses-perceptionNaturalImageTraining15	8	0	0	1534543905	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-anatomy	0	1	0	0	9964796	n/a	n/a	n/a	n/a	n/a	0	n/a	anat
+ds001506	sub-02	ses-imagery01	8	0	0	1421136223	0	3632.0	454.0	5603328	700416.0	imagery	1816	{"2.0":8}	anat,func
+ds001506	sub-02	ses-imagery02	6	0	0	1068379404	0	2724.0	454.0	4202496	700416.0	imagery	1362	{"2.0":6}	anat,func
+ds001506	sub-02	ses-imagery03	6	0	0	1065978330	0	2724.0	454.0	4202496	700416.0	imagery	1362	{"2.0":6}	anat,func
+ds001506	sub-02	ses-perceptionArtificialImage01	10	0	0	1542715830	0	3900.0	390.0	7004160	700416.0	perception	1950	{"2.0":10}	anat,func
+ds001506	sub-02	ses-perceptionArtificialImage02	8	0	0	1208207986	0	3120.0	390.0	5603328	700416.0	perception	1560	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionArtificialImage03	2	0	0	302232217	0	780.0	390.0	1400832	700416.0	perception	390	{"2.0":2}	anat,func
+ds001506	sub-02	ses-perceptionLetterImage01	12	0	0	1408018419	0	3624.0	302.0	8404992	700416.0	perception	1812	{"2.0":12}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTest01	10	0	0	1872192962	0	4780.0	478.0	7004160	700416.0	perception	2390	{"2.0":10}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTest02	6	0	0	1134529097	0	2868.0	478.0	4202496	700416.0	perception	1434	{"2.0":6}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTest03	8	0	0	1502718021	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining01	8	0	0	1494021340	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining02	8	0	0	1497237487	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining03	8	0	0	1478840401	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining04	8	0	0	1476169975	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining05	8	0	0	1482378825	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining06	8	0	0	1475794140	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining07	8	0	0	1487256803	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining08	8	0	0	1461474470	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining09	8	0	0	1472513760	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining10	8	0	0	1487715138	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining11	8	0	0	1473080029	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining12	8	0	0	1499736961	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining13	8	0	0	1491942241	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining14	8	0	0	1507388436	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-02	ses-perceptionNaturalImageTraining15	8	0	0	1469722029	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-anatomy	0	1	0	0	8939559	n/a	n/a	n/a	n/a	n/a	0	n/a	anat
+ds001506	sub-03	ses-imagery01	3	0	0	517020433	0	1362.0	454.0	2101248	700416.0	imagery	681	{"2.0":3}	anat,func
+ds001506	sub-03	ses-imagery02	9	0	0	1549841169	0	4086.0	454.0	6303744	700416.0	imagery	2043	{"2.0":9}	anat,func
+ds001506	sub-03	ses-imagery03	8	0	0	1364554222	0	3632.0	454.0	5603328	700416.0	imagery	1816	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionArtificialImage01	10	0	0	1444034713	0	3900.0	390.0	7004160	700416.0	perception	1950	{"2.0":10}	anat,func
+ds001506	sub-03	ses-perceptionArtificialImage02	10	0	0	1441704324	0	3900.0	390.0	7004160	700416.0	perception	1950	{"2.0":10}	anat,func
+ds001506	sub-03	ses-perceptionLetterImage01	12	0	0	1338539963	0	3624.0	302.0	8404992	700416.0	perception	1812	{"2.0":12}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTest01	8	0	0	1406420599	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTest02	8	0	0	1430301409	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTest03	8	0	0	1442928945	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining01	8	0	0	1454397548	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining02	8	0	0	1433271875	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining03	8	0	0	1431052943	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining04	8	0	0	1415579812	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining05	8	0	0	1438154820	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining06	8	0	0	1441209254	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining07	8	0	0	1409390231	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining08	8	0	0	1425119874	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining09	8	0	0	1436362758	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining10	8	0	0	1431648537	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining11	8	0	0	1438699714	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining12	8	0	0	1449958609	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining13	8	0	0	1437661183	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining14	8	0	0	1439743113	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
+ds001506	sub-03	ses-perceptionNaturalImageTraining15	8	0	0	1464432386	0	3824.0	478.0	5603328	700416.0	perception	1912	{"2.0":8}	anat,func
